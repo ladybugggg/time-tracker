@@ -570,6 +570,10 @@ video {
   right: 400px;
 }
 
+.top-0 {
+  top: 0px;
+}
+
 .top-8 {
   top: 2rem;
 }
@@ -643,10 +647,6 @@ video {
 
 .h-\[230vh\] {
   height: 230vh;
-}
-
-.h-\[25vh\] {
-  height: 25vh;
 }
 
 .h-\[280vh\] {
@@ -985,10 +985,6 @@ video {
 
   .md\:h-\[100vh\] {
     height: 100vh;
-  }
-
-  .md\:h-\[21vh\] {
-    height: 21vh;
   }
 
   .md\:h-\[39vh\] {
